@@ -14,8 +14,13 @@ class Features extends Component {
       <div>
         <div className="container-fluid feature">
           <div className="row">
-            <div className="col-md-5 sm-10 xs-10 lg-4 xl-4 align-items-center">
-              <img class="img-fluid flogo" src={logo} alt="logo" width="100%" />
+            <div className="col-md-5 sm-10 xs-10 lg-4 xl-4 text-center fl">
+              <img
+                class="img-fluid rounded mx-auto d-block flogo"
+                src={logo}
+                alt="logo"
+                width="100%"
+              />
             </div>
             <div className="col-md-7 sm-12 xs-12 lg-8 xl-7 ftxt">
               <div className="row">
