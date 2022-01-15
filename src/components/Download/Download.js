@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "../Style.css";
-import logo from "./logo.png";
+import logo from "../../assets/download-logo.png";
 
 class Download extends Component {
   render() {

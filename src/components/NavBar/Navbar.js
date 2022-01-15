@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { MenuItems } from "./MenuItems";
 import "../Style.css";
-import logo from "./logo.png";
+import logo from "../../assets/logo.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 class Navbar extends Component {

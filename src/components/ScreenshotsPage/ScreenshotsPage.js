@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "../Style.css";
 import Test from "../Caarousel/Carousel";
-import logo from "./screenshot-logo.png";
+import logo from "../../assets/ss-logo.png";
 
 class ScreenshotPage extends Component {
   render() {

@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import "../Style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import logo from "./logo.png";
-import heading from "./heading.png";
+import logo from "../../assets/home-logo.png";
+import heading from "../../assets/heading.png";
 
 class Home extends Component {
   render() {

@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 // import "./Benefits.css";
 import "../Style.css";
-import icon1 from "./Icon-4.png";
-import icon2 from "./Icon-5.png";
-import icon3 from "./Icon-6.png";
+import icon1 from "../../assets/Icon-4.png";
+import icon2 from "../../assets/Icon-5.png";
+import icon3 from "../../assets/Icon-6.png";
 import { Description } from "./Description";
 
 class Benefits extends Component {

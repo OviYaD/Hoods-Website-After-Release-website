@@ -2,11 +2,11 @@ import React, { Component } from "react";
 import "../Style.css";
 // import "./Features.css";
 import { Description } from "./Description";
-import logo from "./home-logo.png";
-import icon1 from "./Icon-1.png";
-import icon2 from "./Icon-2.png";
-import icon3 from "./Icon-3.png";
-import icon4 from "./Icon-4.png";
+import logo from "../../assets/feature-logo.png";
+import icon1 from "../../assets/Icon-1.png";
+import icon2 from "../../assets/Icon-2.png";
+import icon3 from "../../assets/Icon-3.png";
+import icon4 from "../../assets/Icon-4.png";
 
 class Features extends Component {
   render() {

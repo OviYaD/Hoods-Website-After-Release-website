@@ -25,23 +25,6 @@ function App() {
       <Download />
       <Waitlist />
       <Contact />
-      {/* <Waitlist /> */}
-      {/* <Navbar /> */}
-      {/* <Home /> */}
-
-      {/* <Features /> */}
-      {/* <Benefits /> */}
-      {/* <ScreenshotPage /> */}
-      {/* <Download /> */}
-      {/* <Waitlist /> */}
-      {/* 
-      <Home />
-       
-      
-      <ScreenshotPage />
-      <Download />
-       */}
-      {/* */}
     </div>
   );
 }
