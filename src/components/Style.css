@@ -76,9 +76,14 @@ h1 {
 }
 
 @media screen and (max-width: 960px) {
+    .guid {
+        padding-right: 0px;
+    }
     .home-txt {
-        padding: 25px;
+        min-width: 100%;
+        padding: 0px;
         margin: 0;
+        text-align: center;
     }
     .home-txt img {
         width: 150px;
